@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,(USA) HLN 720 
-https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/hln.us.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,(USA) HLN 
-http://listplay4k.live:8080/play/sEqGlXBK924GUbV9yuY_SLvL4-P-tkmtMoaFl6rNZpU/ts?checkedby:iptvcat.com
+#EXTINF:-1,(USA) HLN  
+https://1876572335.rsc.cdn77.org/6DD62ya4VCQ7TlkRWguNWw==,1677708772/1876572335/tracks-v1a1/mono.m3u8
 #EXTINF:-1,(USA) HLN (2)
-http://wszi7k2g.akciatv.ru/iptv/V5EDB64MU562U2/6500/index.m3u8?checkedby:iptvcat.com
-#EXTINF:-1,(USA) HLN (3)
-https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8?checkedby:iptvcat.com
+https://tve-live-lln.warnermediacdn.com/hls/live/586496/cnngo/hln/VIDEO_0_3564000.m3u8
+#EXTINF:-1,(USA) NBC NEWS
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_5_596000.m3u8
+#EXTINF:-1,(CAD) GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
