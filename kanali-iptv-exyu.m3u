@@ -1,0 +1,115 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="HRT1" tvg-name="HRT 1" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT1.png", HRT 1
+http://195.29.70.84/PLTV/88888888/224/3221226139/04.m3u8
+#EXTINF:-1 tvg-id="HRT2" tvg-name="HRT 2" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT2.png", HRT 2
+http://195.29.70.82/PLTV/88888888/224/3221226140/04.m3u8
+#EXTINF:-1 tvg-id="HRT3" tvg-name="HRT 3" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT3.png", HRT 3
+http://195.29.70.67/PLTV/88888888/224/3221226280/04.m3u8
+#EXTINF:-1 tvg-id="HRV4" tvg-name="HRT 4" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/HRT4.png", HRT 4
+http://195.29.70.89/PLTV/88888888/224/3221226281/04.m3u8
+#EXTINF:-1 tvg-id="RTLTELEVIZIJA" tvg-name="RTL" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTL.png", RTL
+http://195.29.70.67/PLTV/88888888/224/3221226195/04.m3u8
+#EXTINF:-1 tvg-id="RTL 2" tvg-name="RTL2" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTL2.png",Rtl 2
+http://webtvstream.bhtelecom.ba/rtl2_hr.m3u8 
+#EXTINF:-1 tvg-id="RTL iving" tvg-name="RTL Living" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/RTLLiving.png",Rtl Living
+http://webtvstream.bhtelecom.ba/rtl_living.m3u8
+#EXTINF:-1 tvg-id="BN" tvg-name="BN" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/bn_televizija.png",BN
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="Rtl" tvg-name="Kockica" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/rtl-kockica-logo.png",Rtl kockica
+http://webtvstream.bhtelecom.ba/rtl_kockica.m3u8
+#EXTINF:-1 tvg-id="RTS1" tvg-link="http://guide.nextgen-iptv.com/guide.xml" tvg-name="RTS 1" tvg-logo="http://nextgen-iptv.com/logo/RTS1_SRB.png",RTS1
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts1
+#EXTINF:-1 tvg-id="RTS 2" tvg-name="RTS 2" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS2_logo.png",RTS2
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts2
+#EXTINF:-1 tvg-id="RTS 3" tvg-name="RTS 3" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/RTS_3_logo.png",RTS3 
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=rts3
+#EXTINF:-1 tvg-id="PRVA" tvg-name="PRVA" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/prva-srpska-logo.png",Prva
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=prva
+#EXTINF: -1 tvg-id="B92" tvg-name="B92" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/b92_play_radio.jpg",B 92 
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=b92
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B RS" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/studiobexyu.png",Studio B Srbija Tv 
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Pink1.rs" tvg-name="Pink RS" tvg-logo="https://www.logolynx.com/images/logolynx/6c/6ce033a5b4e98cfde9a16746a1266fc4.jpeg",Pink 1 
+http://exyu.io:8080/stream?stream=sd&sp=exyu&channel=pink
+#EXTINF:-1 tvg-id="TVCG1" tvg-name="TVCG1" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/rtcg_sat_%28l2%29.png",TVCG1
+http://cdn3.bcdn.rs:1935/cg1/smil:cg1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCG2" tvg-name="TVCG2" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/rtcg_sat_%28l2%29.png",TVCG2
+http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
+#EXTINF:-1  tvg-id="TVCGSAT" tvg-name="TVCGSAT" tvg-logo="http://www.phoenixrebornbuild.com.hr/media/com_myiptv/logos/downloaded/7w31vuuj/rtcg_sat_%28l2%29.png",TVCGSAT
+http://cdn3.bcdn.rs:1935/cgsat/smil:cgsat.smil/playlist.m3u8
+#EXTINF:-1 ,Al Jazeera Balkans
+https://live-hls-web-ajb.getaj.net/AJB/index.m3u8
+#EXTINF:-1 tvg-id="PRVAPlus" tvg-link="http://epg.nextgen-iptv.com/epg.xml" tvg-name="Prva Plus" tvg-logo="http://nextgen-iptv.com/logo/PrvaPlus_SRB.png" group-title="Srbija",Prva Plus
+http://5.254.16.186/K1/mono.m3u8
+#EXTINF:-1,RTRS
+http://parh.rtrs.tv:1935/tv/live/playlist.m3u8
+#EXTINF:-1,RTRS PLUS
+http://parh.rtrs.tv:1935/plus/plus/playlist.m3u8
+#EXTINF:-1,Bn Bosna Tv
+https://dns2.rtvbn.com:8080/live/index.m3u8
+#EXTINF:-1 tvg-id="StudioB.rs" tvg-name="Studio B RS" tvg-logo="https://cdn-static.ams3.cdn.digitaloceanspaces.com/picons/studiobexyu.png",Studio B Srbija Tv 
+http://91.148.117.134:1935/studiob/studiob.stream/playlist.m3u8
+#EXTINF:-1 ,N1SRB
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1srp&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 ,N1B&H
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1bos&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1 ,N1HRV
+https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0
+#EXTINF:-1,Xplore
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,Xite
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+#EXTINF:-1,VH1
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:-1,Vevo pop europe
+https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
+#EXTINF:-1,Vevo pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvevo/CDN/playlist.m3u8
+#EXTINF:-1,Vevo Latino
+https://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+#EXTINF:-1,MTV80s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv80s
+#EXTINF:-1,MTV90s
+http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=mtv90s
+#EXTINF:-1,Relax 1
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95387b932c837b49397357/playlist.m3u8
+#EXTINF:-1,Relax 2
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95385c932c837b49397356/playlist.m3u8
+#EXTINF:-1,Relax 3
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538b9932c837b4939735c/playlist.m3u8
+#EXTINF:-1,Relax 4
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c9538a5932c837b4939735b/playlist.m3u8
+#EXTINF:-1,Relax 5
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c953836932c837b49397355/playlist.m3u8
+#EXTINF:-1,Relax 6
+https://stitcheraws.unreel.me/wse-node02.powr.com/live/5c95396f932c837b49397360/playlist.m3u8
+#EXTINF:-1,MRT 1
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_1)/index.m3u8
+#EXTINF:-1 ,Sobraniski
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+#EXTINF:-1 ,Sitel
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sitel)/index.m3u8
+#EXTINF:-1,Alfa
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alfa)/index.m3u8
+#EXTINF:-1 ,Telma
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Telma)/index.m3u8
+#EXTINF:-1,Alsat M
+http://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Alsat_M)/index.m3u8
+#EXTINF:-1 ,MTM
+https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MTM)/index.m3u8
+#EXTINF:-1, Muzzik
+http://muzzik-live.morescreens.com/mts-6/chunklist.m3u8
+#EXTINF:-1, Muzzik Rock&Roll
+http://muzzik-live.morescreens.com/mts-1/chunklist.m3u8
+#EXTINF:-1, Muzzik Cafe&club
+http://muzzik-live.morescreens.com/mts-3/chunklist.m3u8
+#EXTINF:-1, Muzzik World Wide
+http://muzzik-live.morescreens.com/mts-5/chunklist.m3u8
+#EXTINF:-1, Muzzik Jeka
+http://muzzik-live.morescreens.com/mts-4/chunklist.m3u8
+#EXTINF:-1, Muzzik Mediteraneo
+http://muzzik-live.morescreens.com/mts-a5/chunklist.m3u8
+#EXTINF:-1, Muzzik Hip Hop
+http://muzzik-live.morescreens.com/mts-a4/chunklist.m3u8
+#EXTINF:-1, OKK
+http://muzzik-live.morescreens.com/mts-2/chunklist.m3u8
